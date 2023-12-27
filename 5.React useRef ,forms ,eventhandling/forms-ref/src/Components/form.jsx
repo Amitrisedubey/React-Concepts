@@ -10,6 +10,7 @@ export const Forms = () => {
 
   //   console.log(form);
   const handleChange = (e) => {
+    console.log(ref.current.files);
     const { name, value } = e.target;
     setForm({
       ...form,
@@ -22,7 +23,6 @@ export const Forms = () => {
   };
   return (
     <div>
-      {" "}
       <form onSubmit={handleSubmit}>
         <input
           onChange={handleChange}
