@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "title": "Playing Ludo",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Playing BGMI",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Playing Cricket",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Learn React",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Learn JavaScript",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Learn TypeScript",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Playing Tic-Tac-Toe",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Learn DSA",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Learn HTML",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "Eating Pizza",
+      "status": false,
+      "id": 10
+    }
+  ]
+}
